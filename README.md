@@ -7,7 +7,6 @@ This is a Python application that automatically organizes the files in a selecte
 ## Technologies Used
 
 - Python 3.12
-- Tkinter (for the folder selection interface)
 - `os` (for file and directory handling)
 
 ---
